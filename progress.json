@@ -351,5 +351,14 @@
       "Nice work renaming the branch locally and on the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1788617393.365264,
+    "completed_at": 1788617394.827863,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
   }
 ]
